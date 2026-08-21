@@ -1,0 +1,18 @@
+# Ninad Yadav Portfolio
+
+This website presents the professional events portfolio of Ninad Yadav, a Media Systems Engineer, Senior Live Director, Broadcast Operations Manager, and Broadcast and Post-Production Infrastructure Strategist.
+
+## Major sections
+- Hero and verified career metrics
+- Featured broadcast and esports productions
+- Searchable, category-filtered events portfolio
+- Chronological event timeline
+- Resume-provided event logo gallery
+- Source, attribution, confidence, and media-rights register
+
+## Content policy
+The user-provided resume is the primary source of truth for career participation, responsibilities, dates, audience figures, prize pools, and achievements. Unresolved details are explicitly marked and are not inferred. External sources corroborate public event identity only.
+
+## Contact
+- Email: ninad.acads@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ninad4hire
